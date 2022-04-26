@@ -58,7 +58,7 @@ Send me an [✉️ email](mailto:lachtarhoussem4@gmail.com),<br> Or just 💬&nb
   
 <!--START_SECTION:activity-->
 1. 🎉 Designed my first project, a drum pad player with full control, plus adding animation on each and every drum element, source code in [houssemlachtar
-/Drums-It-Yourself](https://github.com/houssemlachtar/Drums-It-Yourself), with simple html, css and js with no librabry needed.
+/Drums-It-Yourself](https://github.com/houssemlachtar/Drums-It-Yourself), with simple html, css and js.
 2. 💪 Had the opportunity to work with The Blaze, a french band, i had actually to work on a service that animates or interacts with any implemented music or song, their new full album will be published in this service once the site is published. Note that this [repository](https://github.com/houssemlachtar/Wavy-Sounds) is only a prototype and the work is still on.
 <!--END_SECTION:activity-->
 
