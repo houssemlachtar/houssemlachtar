@@ -7,8 +7,8 @@ I am Houssem Lachtar, and I am a Marketing grad from ISG Tunis, and a Master&apo
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to go to the gym and play guitar and drums
 - 🐾 Also fun fact: Dog and cat love
-<br />
-  🟢 + Currently looking for a work-study experience. +
+
+  🟢 Currently looking for a work-study experience. 
 <br />
 
 ### Connect with me:
