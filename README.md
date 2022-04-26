@@ -7,8 +7,8 @@ I am Houssem Lachtar, and I am a Marketing grad from ISG Tunis, and a Master&apo
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to go to the gym and play guitar and drums
 - 🐾 Also fun fact: Dog and cat love
-
-  🟢 Currently looking for a work-study experience. 
+<br />
+                                         🟢 Currently looking for a work-study experience. 
 <br />
 
 ### Connect with me:
@@ -24,7 +24,10 @@ Send me an [✉️ email](mailto:lachtarhoussem4@gmail.com),<br> Or just 💬&nb
 [![Facebook](./img/facebook-dark.svg)](https://www.facebook.com/music.camera.friends.goodtime.wildlife#gh-dark-mode-only)
 
 
-### Languages and Tools: <br />
+### Languages and Tools: 
+<br />
+<br />
+
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
