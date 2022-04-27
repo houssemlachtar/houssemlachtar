@@ -49,6 +49,7 @@ Send me an [✉️ email](mailto:lachtarhoussem4@gmail.com),<br> Or just 💬&nb
 <img align="left" alt="Terminal" width="26px" src="./img/terminal.svg" />
 <img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Illustrator" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Lightroom" width="26px" src="https://img.icons8.com/fluency/24/000000/adobe-lightroom.png" style="padding-right:10px;" />
 <img align="left" alt="Premiere Pro" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="After Effects" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" style="padding-right:10px;" />
 
