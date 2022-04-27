@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Houssem Lachtar, and I am a Marketing grad from ISG Tunis, and a Master&apos;s student in Digital Marketing at the&nbsp;🏛&nbsp;Higher Institute Of Management Of Tunis. I am a Graphic Designer, Video Editor and Front-End Developer. You can find some of my work on [<img alt="Codepen" width="24px" style="padding-top:2px;" src="./img/codepen.svg" /> my codepen](https://codepen.io/houssem-lachtar) and ofc, here on [<img alt="Github" width="24px" style="padding-top:2px;" src="./img/github.svg" /> my github](https://github.com/houssemlachtar). I&apos;m launching [🌐 my personal website](#) very soon.
+I am Houssem Lachtar, and I am a Marketing grad from ISG Tunis, and a Master&apos;s student in Digital Marketing at the&nbsp;🏛&nbsp;Higher Institute Of Management Of Tunis. I am a Graphic Designer, Video Editor and Front-End Developer. You can find some of my work on [<img alt="Codepen" width="24px" src="./img/codepen.svg" /> my codepen](https://codepen.io/houssem-lachtar) and ofc, here on [<img alt="Github" width="24px" src="./img/github.svg" /> my github](https://github.com/houssemlachtar). I&apos;m launching [🌐 my personal website](#) very soon.
 
 - 🌱 I&apos;m currently learning everything 🤣
 - 👯 I&apos;m looking to collaborate with other developers
