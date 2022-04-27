@@ -51,7 +51,7 @@ Send me an [✉️ email](mailto:lachtarhoussem4@gmail.com),<br> Or just 💬&nb
 <img align="left" alt="Illustrator" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Lightroom" width="26px" src="https://img.icons8.com/ios-filled/48/000000/adobe-lightroom.png" style="padding-right:10px;" />
 <img align="left" alt="Premiere Pro" width="26px" src="https://img.icons8.com/ios-filled/24/000000/adobe-premiere-pro.png" style="padding-right:10px;" />
-<img align="left" alt="After Effects" width="26px" src="https://img.icons8.com/ios-glyphs/48/000000/adobe-after-effects.png" style="padding-right:10px; color-fill:#9B59B6;" />
+<img align="left" alt="After Effects" width="26px" src="https://img.icons8.com/ios-glyphs/48/000000/adobe-after-effects.png" style="padding-right:10px;" />
 
 <br />
 <br />
