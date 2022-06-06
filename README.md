@@ -53,6 +53,7 @@ Send me an [✉️ email](mailto:lachtarhoussem4@gmail.com),<br> Or just 💬&nb
 <img align="left" alt="Terminal" width="26px" src="./img/lightroom.svg" />
 <img align="left" alt="Terminal" width="26px" src="./img/premierepro.svg" />
 <img align="left" alt="Terminal" width="26px" src="./img/aftereffects.svg" />
+<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" />
 
 <br />
 <br />
