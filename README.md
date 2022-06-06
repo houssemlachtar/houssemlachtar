@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="5px">
+### Hi there <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" height="30px">
 
 I am Houssem Lachtar, and I am a Marketing grad from ISG Tunis, and a Master&apos;s student in Digital Marketing at the&nbsp;🏛&nbsp;Higher Institute Of Management Of Tunis. I am a Photographer, Video Editor and Front-End Developer. You can find some of my work on [<img alt="Codepen" width="24px" src="./img/codepen.svg" /> my codepen](https://codepen.io/houssem-lachtar) and ofc, here on [<img alt="Github" width="24px" src="./img/github.svg" /> my github](https://github.com/houssemlachtar). I&apos;m launching [🌐 my personal website](#) very soon.
 
