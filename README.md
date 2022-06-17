@@ -58,3 +58,11 @@ Send me an [✉️ email](mailto:lachtarhoussem4@gmail.com),<br> Or just 💬&nb
 <br />
 <br />
 <br />
+
+<table align="center">
+      <tr>
+        <td width="100%" align="center">
+          <a href="https://personal-projects-inky.vercel.app">View Latest Projects</a>
+        </td>
+      </tr>
+ </table>
