@@ -1,6 +1,6 @@
 ### Hi there <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" height="30px">
 
-I am Houssem Lachtar, and I am a Marketing grad from ISG Tunis, and I am reconverting to study Information Technology now.<!---a Master&apos;s student in Digital Marketing at the&nbsp;🏛&nbsp;Higher Institute Of Management Of Tunis.--> I am a Photographer, Video Editor and Front-End Developer. You can find some of my work <!---on [<img alt="Codepen" width="24px" src="./img/codepen.svg" /> my codepen](https://codepen.io/houssem-lachtar) and of course, here--> on [<img alt="Github" width="24px" src="./img/github.svg" /> my github](https://github.com/houssemlachtar). I&apos;m launching [🌐 my personal website](#) very soon. This is [my minimalistic portfolio](https://minimalistic-portfolio-azure.vercel.app)
+I am Houssem Lachtar, and I am a Marketing grad from ISG Tunis, and I am reconverting to study Information Technology now.<!---a Master&apos;s student in Digital Marketing at the&nbsp;🏛&nbsp;Higher Institute Of Management Of Tunis.--> I am a Photographer, Video Editor and Front-End Developer. You can find some of my work <!---on [<img alt="Codepen" width="24px" src="./img/codepen.svg" /> my codepen](https://codepen.io/houssem-lachtar) and of course, here--> on [<img alt="Github" width="24px" src="./img/github.svg" /> my github](https://github.com/houssemlachtar). I&apos;m launching [🌐 my main website](#) very soon. This is [my minimalistic portfolio](https://minimalistic-portfolio-azure.vercel.app)
 
 - 🌱 I&apos;m currently learning everything 🤣
 - 👯 I&apos;m looking to collaborate with other developers
@@ -55,6 +55,7 @@ Send me an [✉️ email](mailto:lachtarhoussem4@gmail.com),<br> Or just 💬&nb
 <img align="left" alt="Terminal" width="26px" src="./img/aftereffects.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+<img align="left" alt="Terminal" width="65px" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" />
 
 <br />
 <br />
