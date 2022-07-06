@@ -25,7 +25,7 @@ Send me an [✉️ email](mailto:lachtarhoussem4@gmail.com),<br> Or just 💬&nb
 [![Facebook](./img/facebook-dark.svg)](https://www.facebook.com/music.camera.friends.goodtime.wildlife#gh-dark-mode-only)
 
 
-### Languages and Tools: <br />
+### Programming Languages and Tools: <br />
 
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
