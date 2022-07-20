@@ -14,7 +14,7 @@ I am Houssem Lachtar, and I am a Marketing grad from ISG Tunis, and I am reconve
 
 ### Connect with me:
 
-Send me an [✉️ email](mailto:lachtarhoussem4@gmail.com),<br> Or just 💬&nbsp;come say hi on<br><br>
+Send me an [✉️ email](mailto:lachtarhoussem7@gmail.com),<br> Or just 💬&nbsp;come say hi on<br><br>
 [![Linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/houssem-lachtar#gh-light-mode-only)
 [![Linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/houssem-lachtar#gh-dark-mode-only)
 &nbsp;&nbsp;
