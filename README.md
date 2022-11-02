@@ -9,8 +9,6 @@ I am Houssem Lachtar, and I am a Marketing grad from ISG Tunis, and I am now stu
 - ⚡ Fun fact: I love to go to the gym and play guitar and drums
 - 🐾 Also fun fact: Dog and cat lover
 <br />
-  🟢 Currently looking for a work-study experience as a web developer.
-<br />
 
 ### Connect with me:
 
