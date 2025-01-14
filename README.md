@@ -4,7 +4,7 @@ I am Houssem Lachtar, and I am a Marketing grad from ISG Tunis, I also studied b
 
 - 🌱 I&apos;m currently learning everything 🤣
 - 👯 I&apos;m looking to collaborate with other developers
-- 🥅 2024 Goals: Learn more about web3
+- 🥅 2025 Goals: Learn more about web3
 - ✨ Hobby: Music, Film industry and Information technology 
 - ⚡ Fun fact: I love to go to the gym and play guitar and drums
 - 🐾 Also fun fact: Dog and cat lover
