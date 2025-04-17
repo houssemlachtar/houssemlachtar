@@ -1,6 +1,6 @@
 ### Hi there <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" height="30px">
 
-I am Houssem Lachtar, and I am a Marketing grad from ISG Tunis, I also studied business analysis and data science as a master grade in Esprit School Of Business.<!---a Master&apos;s student in Digital Marketing at the&nbsp;🏛&nbsp;Higher Institute Of Management Of Tunis.--> I am a Photographer, Video Editor and Front-End Developer. You can find some of my work <!---on [<img alt="Codepen" width="24px" src="./img/codepen.svg" /> my codepen](https://codepen.io/houssem-lachtar) and of course, here--> on [<img alt="Github" width="24px" src="./img/github.svg" /> my github](https://github.com/houssemlachtar). This is [my website](https://lachtarhoussem.vercel.app)
+I am Houssem Lachtar, and I am a Marketing grad from ISG Tunis, I also studied business analysis and data science as a master grade in Esprit School of Business.<!---a Master&apos;s student in Digital Marketing at the&nbsp;🏛&nbsp;Higher Institute Of Management Of Tunis.--> I am a Photographer, Video Editor and Front-End Developer. You can find some of my work <!---on [<img alt="Codepen" width="24px" src="./img/codepen.svg" /> my codepen](https://codepen.io/houssem-lachtar) and of course, here--> on [<img alt="Github" width="24px" src="./img/github.svg" /> my github](https://github.com/houssemlachtar). This is [my website](https://lachtarhoussem.vercel.app)
 
 - 🌱 I&apos;m currently learning everything 🤣
 - 👯 I&apos;m looking to collaborate with other developers
